@@ -1,0 +1,14 @@
+{
+	"name": "goit-typescript-hw-01",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/ansachuk/goit-typescript-hw-01.git",
+	"author": "Andrii Sachuk <ansachuk@icloud.com>",
+	"license": "MIT",
+	"scripts": {
+		"start": "web-dev-server --node-resolve --open --watch"
+	},
+	"devDependencies": {
+		"@web/dev-server": "^0.3.1"
+	}
+}
